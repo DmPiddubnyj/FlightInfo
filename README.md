@@ -1,6 +1,6 @@
 # Swedavia FlightInfo Console
 
-A Python console flight board based on the recording. It reads live arrivals and departures from Swedavia FlightInfo v2, shows the other airport, airline, local scheduled/estimated/actual times, status, terminal, gate, and baggage belt, and lets you search flights by destination.
+A Python console flight board. It reads live arrivals and departures from Swedavia FlightInfo v2, shows the other airport, airline, local scheduled/estimated/actual times, status, terminal, gate, and baggage belt, and lets you search flights by destination.
 
 ## Run
 
