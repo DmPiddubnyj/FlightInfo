@@ -1,0 +1,5 @@
+API key.txt
+__pycache__/
+*.py[cod]
+*.mov
+*.xlsx
