@@ -35,4 +35,4 @@ python destinationer.py
 
 It counts scheduled departures for the current Swedish local date across all ten Swedavia airports. Each country total is split by destination IATA airport code and shows the Swedish airports the flights leave from. To report another date, use `python destinationer.py --date YYYY-MM-DD`.
 
-`city_country.json` is the offline city-to-country lookup built from the destination city list in `destinations-statistik-2025.xlsx`(file is not added to repository, was used only once to create json, in case if it is needed - file is located on swedavia webpage). Any destination the lookup cannot identify is shown under `Country not mapped`, with its airport code, so it is visible for correction.
+`city_country.json` is the offline city-to-country lookup built from the destination city list in `destinations-statistik-2025.xlsx`(file is not added to the repository, was used only once to create json, in case if it is needed - file is located on swedavia webpage). Any destination the lookup cannot identify is shown under `Country not mapped`, with its airport code, so it is visible for correction.
